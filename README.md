@@ -1,7 +1,7 @@
-## Olá, eu sou o Marcos Samuh
+## Olá, eu sou o Marcos Samuel
 
-- 💻 Desenvolvedor Back end
-- 📖 Estudando Java e suas tecnologias
+- 💻 Desenvolvedor Back end;
+- 📖 Estudando Java e suas tecnologias;
 
 <div align="center">
   <a href="https://github.com/marcossamuh">
