@@ -1,7 +1,7 @@
 ## Olá, eu sou o Marcos Samuel
 
 - 💻 Desenvolvedor Back end;
-- 📖 Estudando Java e suas tecnologias;
+- 📖 Estudando C# e o ambiente .NET;
 
 <div align="center">
   <a href="https://github.com/marcossamuh">
